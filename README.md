@@ -90,7 +90,7 @@ Interactive product category performance metrics.
    
 5. Download the dataset from Kaggle
 6. Place CSV files into `data/`
-7. Run notebooks or Python scripts
+7. Open and run the notebooks in notebooks/
 
 ## Author
 
