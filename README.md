@@ -40,8 +40,7 @@ To reproduce the project:
 olist-brazilian-ecommerce-analysis/
 
 - `data/`           # Raw dataset (CSV files not included)
-- `notebooks/`      # Jupyter notebooks for data cleaning and exploration
-- `python/`         # Python scripts for analysis and visualizations
+- `notebooks/`      # Jupyter notebooks for data cleaning and exploratory analysis
 - `sql/`            # SQL queries for creating tables and aggregations
 - `dashboard/`      # Final dashboard report (PDF)
 - `images/`         # Screenshots of dashboards and charts
