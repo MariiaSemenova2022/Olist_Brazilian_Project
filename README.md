@@ -83,13 +83,14 @@ Interactive product category performance metrics.
 ## How to Run the Project
 
 1. Clone the repository
-2. Install dependencies:
-
+   git clone https://github.com/MariiaSemenova2022/Olist_Brazilian_Project.git
+   
+3. Install dependencies:
    pip install -r requirements.txt
-
-3. Download the dataset from Kaggle
-4. Place CSV files into `data/`
-5. Run notebooks or Python scripts
+   
+5. Download the dataset from Kaggle
+6. Place CSV files into `data/`
+7. Run notebooks or Python scripts
 
 ## Author
 
