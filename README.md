@@ -1,5 +1,5 @@
 # Olist_Brazilian_Project
-End-to-End Data Analysis Project using Olist Brazilian E-Commerce Dataset. Includes Python Data Cleaning and Analysis, SQL Data Modelling, and a Power BI dashboard.
+End-to-End Data Analysis of Brazilian E-Commerce Transactions using Python, SQL, and Power BI.
 
 ## Project Highlights
 This project demonstrates:
