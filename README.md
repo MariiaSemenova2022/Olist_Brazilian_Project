@@ -1,26 +1,25 @@
 # Olist_Brazilian_Project
-End-to-End Data Analysis of Brazilian E-Commerce Transactions using Python, SQL, and Power BI.
+End-to-End Data Analysis of Brazilian E-Commerce Transactions using Python, SQL, Power BI, and DAX.
 
 ## Project Highlights
 This project demonstrates:
+
 - Data cleaning and preprocessing
 - SQL data modeling
 - Exploratory data analysis (EDA)
+- DAX measures and calculated columns
 - Business KPI creation
 - Dashboard reporting
 - Version control with Git
 
 ## Project Overview
-  
-The goal of this project is to analyze transactional data from a Brazilian e-commerce platform to:
+The goal of this project is to analyze transactional data from a Brazilian e-commerce dataset to:
 
 - Identify revenue trends
 - Analyze customer behaviour
 - Evaluate product category performance
 - Monitor customer performance
 - Detect cancellation patterns
-
-The final result includes analytical queries, Python analysis, and an interactive dashboard.
 
 ## Dataset
 
@@ -36,7 +35,6 @@ To reproduce the project:
 3. Place them inside the `data/` folder
 
 ## Project Structure
-
 olist-brazilian-ecommerce-analysis/
 
 - `data/`           # Raw dataset (CSV files not included)
@@ -77,8 +75,17 @@ Interactive product category performance metrics.
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
 - Power BI
+- DAX (Data Analysis Expressions)
 - Jupyter Notebook
 - Git & GitHub
+
+## Data Modeling & DAX
+The Power BI model includes calculated measures and business logic that are implemented using DAX, including:
+
+- Revenue calculations
+- Cancellation rate measures
+- Average Order Value (AOV)
+- Time-based aggregations
 
 ## How to Run the Project
 
